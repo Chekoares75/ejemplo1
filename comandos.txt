@@ -1,4 +1,4 @@
-Aquí se observan los principales códigos git para trabajar con consola. Es importante anteponer en todos la palabra reservada GIT.
+﻿Aquí se observan los principales códigos git para trabajar con consola. Es importante anteponer en todos la palabra reservada GIT.
 
 remote - v= Muestra la url en gitHub del archivo.
 
@@ -10,3 +10,10 @@ add_"Nombre_Archivo"= Marca el checkbox para un archivo en concreto y así poder
 reset HEAD "Nombre_Archivo"=Permite quitar el checkbox de un archivo seleccionado anteriormente.
 
 git status= Muestra si los documentos que están en la nube están exactamente igual o no con los que están en el servidor local. 
+
+
+git branch= muestra las ramificaciones o bifurcaciones existentes , resaltando la actual.
+
+git branch "nombre"= Crea uuna nueva ramificación.
+
+git checkout= cambia la ramificación actual.
