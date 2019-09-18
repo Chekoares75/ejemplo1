@@ -1,0 +1,9 @@
+remote - v= Muestra la url en gitHub del archivo.
+
+push origin master= Sube el commit a la nube git, origin hacer referencia al servidor de origen y master a la rama a la que se subirán los archivos.
+
+commit -m "titulo"= Crea un commit en el servidor local y permite la inclusión del título del commit.
+
+add_"Nombre_Archivo"= Marca el checkbox para un archivo en concreto y así poder realizar operaciones.
+
+git status= Muestra si los documentos que están en la nube están exactamente igual o no con los que están en el servidor local. 
