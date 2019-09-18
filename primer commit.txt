@@ -1,3 +1,5 @@
 Con este archivo, probraré mi segundo commit.
 
-Agrego esta información.
+Aquí agrego información para mi primera bifurcación o ramificación.
+
+Elimino una línea de código.
