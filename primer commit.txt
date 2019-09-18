@@ -1,1 +1,3 @@
-Con este archivo, probraré mi primer commit.
+Con este archivo, probraré mi segundo commit.
+
+Agrego esta información.
