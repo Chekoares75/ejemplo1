@@ -9,13 +9,17 @@ commit -m "titulo"= Crea un commit en el servidor local y permite la inclusión 
 add_"Nombre_Archivo"= Marca el checkbox para un archivo en concreto y así poder realizar operaciones.
 reset HEAD "Nombre_Archivo"=Permite quitar el checkbox de un archivo seleccionado anteriormente.
 
-git status= Muestra si los documentos que están en la nube están exactamente igual o no con los que están en el servidor local. 
+status= Muestra si los documentos que están en la nube están exactamente igual o no con los que están en el servidor local. 
 
 
-git branch= muestra las ramificaciones o bifurcaciones existentes , resaltando la actual.
+branch= muestra las ramificaciones o bifurcaciones existentes , resaltando la actual.
 
-git branch "nombre"= Crea uuna nueva ramificación.
+branch "nombre"= Crea uuna nueva ramificación.
 
-git checkout= cambia la ramificación actual.
+checkout= cambia la ramificación actual.
 
-git log= muestra información acerca de lo commits e información en general.
+log= muestra información acerca de lo commits e información en general.
+
+branch -d "nombre_rama"=Elimina dicha rama. Para que funcione, debe haberse realizado merge y subido la info con push.
+
+git gc= Realiza limpieza general de archivo del proyecto.
