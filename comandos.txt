@@ -17,3 +17,5 @@ git branch= muestra las ramificaciones o bifurcaciones existentes , resaltando l
 git branch "nombre"= Crea uuna nueva ramificación.
 
 git checkout= cambia la ramificación actual.
+
+git log= muestra información acerca de lo commits e información en general.
