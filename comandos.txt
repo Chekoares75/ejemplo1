@@ -1,9 +1,12 @@
+Aqu√≠ se observan los principales c√≥digos git para trabajar con consola. Es importante anteponer en todos la palabra reservada GIT.
+
 remote - v= Muestra la url en gitHub del archivo.
 
-push origin master= Sube el commit a la nube git, origin hacer referencia al servidor de origen y master a la rama a la que se subir·n los archivos.
+push origin master= Sube el commit a la nube git, origin hacer referencia al servidor de origen y master a la rama a la que se subir√°n los archivos.
 
-commit -m "titulo"= Crea un commit en el servidor local y permite la inclusiÛn del tÌtulo del commit.
+commit -m "titulo"= Crea un commit en el servidor local y permite la inclusi√≥n del t√≠tulo del commit.
 
-add_"Nombre_Archivo"= Marca el checkbox para un archivo en concreto y asÌ poder realizar operaciones.
+add_"Nombre_Archivo"= Marca el checkbox para un archivo en concreto y as√≠ poder realizar operaciones.
+reset HEAD "Nombre_Archivo"=Permite quitar el checkbox de un archivo seleccionado anteriormente.
 
-git status= Muestra si los documentos que est·n en la nube est·n exactamente igual o no con los que est·n en el servidor local. 
+git status= Muestra si los documentos que est√°n en la nube est√°n exactamente igual o no con los que est√°n en el servidor local. 
